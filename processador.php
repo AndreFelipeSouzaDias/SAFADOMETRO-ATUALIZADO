@@ -1,8 +1,5 @@
 <?php
 
-  //print_r($_REQUEST);
-
-
   function somatorio(int $n){
 
     $somatorio = 0;
